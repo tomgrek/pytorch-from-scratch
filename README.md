@@ -1,6 +1,10 @@
 # PyTorch From Scratch
 
-The notebook in this repo accompanies my Medium article, ["Building Your First Neural Net From Scratch With PyTorch"](https://medium.com/@tomgrek/building-your-first-neural-net-from-scratch-with-pytorch-56b0e9c84d54).
+The notebooks in this repo accompany my Medium articles:
+
+* ["Building Your First Neural Net From Scratch With PyTorch"](https://medium.com/@tomgrek/building-your-first-neural-net-from-scratch-with-pytorch-56b0e9c84d54).
+
+* ["PyTorch From First Principles: Part II"](https://medium.com/@tomgrek/pytorch-from-first-principles-part-ii-d37529c57a62).
 
 ## Getting Started
 
