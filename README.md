@@ -6,6 +6,8 @@ The notebooks in this repo accompany my Medium articles:
 
 * ["PyTorch From First Principles: Part II"](https://medium.com/@tomgrek/pytorch-from-first-principles-part-ii-d37529c57a62).
 
+* ["WTF is going on with fast.ai?"](https://medium.com/@tomgrek/wtf-is-going-on-with-fast-ai-db59741b5da2).
+
 ## Getting Started
 
 You'll need Python 3.6, PyTorch, a working CUDA installation, and Jupyter Notebook.
